@@ -5,7 +5,6 @@
 [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge\&logo=n8n\&logoColor=white)](https://n8n.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://docker.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://telegram.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 **Automated Multi-Source Threat Intelligence, IOC Enrichment & Reporting Pipeline**
 
