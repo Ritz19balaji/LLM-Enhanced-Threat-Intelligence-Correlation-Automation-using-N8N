@@ -374,39 +374,6 @@ This produces a **clean, readable, analyst-friendly report** without exposing ra
 
 ---
 
-# 📁 Repository Structure
-
-```text
-llm-threat-intel-n8n/
-│
-├── README.md
-├── LICENSE
-├── .env.example
-├── .gitignore
-├── docker-compose.yml
-│
-├── assets/
-│   └── images/
-│       ├── architecture.svg
-│       ├── workflow-overview.svg
-│       ├── report-format.svg
-│       └── sample-output.svg
-│
-├── docs/
-│   └── ARCHITECTURE.md
-│
-├── n8n/
-│   ├── workflows/
-│   │   └── threat-intel-workflow.json
-│   │
-│   └── credentials/
-│       └── credentials-template.json
-│
-└── scripts/
-    └── setup.sh
-```
-
----
 
 # 🚀 Getting Started
 
